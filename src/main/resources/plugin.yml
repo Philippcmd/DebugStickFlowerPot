@@ -1,0 +1,4 @@
+name: DebugStickFlowerPot
+version: '${version}'
+main: dev.philippcmd.debugstickflowerpot.DebugStickFlowerPot
+api-version: '1.21'
