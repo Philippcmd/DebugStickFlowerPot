@@ -9,7 +9,7 @@
 
 DebugStickFlowerPot is a utility plugin for Minecraft servers. It allows server admins to use the debug stick to change the plants in flower pots.
 
-The latest Downloads can be found on [Modrinth](https://modrinth.com/plugin/debug-stick-flower-pot/versions) 
+The latest downloads can be found on [Modrinth](https://modrinth.com/plugin/debug-stick-flower-pot/versions) 
 
 ## How to use:
 
