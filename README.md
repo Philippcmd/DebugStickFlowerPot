@@ -31,7 +31,7 @@ cd DebugStickFlowerPot/
 ./gradlew build
 ```
 
-You can find the compiled jar in under `build/libs`.
+You can find the compiled jar in `build/libs`.
 
 
 ## License
