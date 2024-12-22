@@ -18,7 +18,7 @@ Get yourself a debug stick (for example with `/give @s debug_stick`) and a flowe
 
 
 ## Building
-DebugStickFlowerPot uses Gradle to handle building.
+Gradle is used to construct DebugStickFlower.
 
 #### System Requirements
 * Java JDK 17 
