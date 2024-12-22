@@ -24,7 +24,7 @@ DebugStickFlowerPot uses Gradle to handle dependencies & building.
 * Java JDK 17 
 * Git
 
-#### Compiling plugin from source
+#### Compiling code from source
 ```sh
 git clone https://github.com/Philippcmd/DebugStickFlowerPot.git
 cd DebugStickFlowerPot/
