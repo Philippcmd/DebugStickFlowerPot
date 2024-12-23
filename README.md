@@ -1,11 +1,10 @@
 ![](https://raw.githubusercontent.com/Philippcmd/DebugStickFlowerPot/refs/heads/master/icon.svg "Banner")
 # Debug Stick Flower Pot
 
-![build](https://img.shields.io/github/actions/workflow/status/PhilippCMD/DebugStickFlowerPot/.github%2Fworkflows%2Fgradle.yml)
-![Downloads](https://img.shields.io/modrinth/dt/cBLgUjKK)
-![GitHub License](https://img.shields.io/github/license/PhilippCMD/DebugStickFlowerPot?link=https%3A%2F%2Fgithub.com%2FPhilippcmd%2FDebugStickFlowerPot%3Ftab%3DMIT-1-ov-file)
-![Discord](https://img.shields.io/discord/1221168987585642586?style=flat&logo=discord&label=discord)
-
+[![build](https://img.shields.io/github/actions/workflow/status/PhilippCMD/DebugStickFlowerPot/.github%2Fworkflows%2Fgradle.yml)](https://github.com/Philippcmd/DebugStickFlowerPot/actions)
+[![Downloads](https://img.shields.io/modrinth/dt/cBLgUjKK)](https://modrinth.com/plugin/debug-stick-flower-pot/versions)
+[![GitHub License](https://img.shields.io/github/license/PhilippCMD/DebugStickFlowerPot?link=https%3A%2F%2Fgithub.com%2FPhilippcmd%2FDebugStickFlowerPot%3Ftab%3DMIT-1-ov-file)](https://github.com/Philippcmd/DebugStickFlowerPot/blob/master/LICENSE.md)
+[![Discord](https://img.shields.io/discord/1221168987585642586?style=flat&logo=discord&label=discord)](https://discord.com/invite/rxgC2BZT64)
 
 DebugStickFlowerPot is a utility plugin for Minecraft servers. It allows server admins to use the debug stick to change the plants in flower pots.
 
