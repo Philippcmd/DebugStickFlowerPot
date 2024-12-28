@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Philippcmd/DebugStickFlowerPot/refs/heads/master/icon.svg "Banner")
+![](https://raw.githubusercontent.com/Philippcmd/DebugStickFlowerPot/refs/heads/master/icon.png "Banner")
 # Debug Stick Flower Pot
 
 [![build](https://img.shields.io/github/actions/workflow/status/PhilippCMD/DebugStickFlowerPot/.github%2Fworkflows%2Fgradle.yml)](https://github.com/Philippcmd/DebugStickFlowerPot/actions)
