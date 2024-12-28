@@ -17,7 +17,7 @@ Get yourself a debug stick (for example with `/give @s debug_stick`) and a flowe
 
 
 ## Building
-Gradle is used to construct DebugStickFlower.
+Gradle is used to construct DebugStickFlowerPot.
 
 #### System Requirements
 * Java JDK 17 
