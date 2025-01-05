@@ -23,7 +23,7 @@ Gradle is used to construct DebugStickFlowerPot.
 * Java JDK 17 
 * Git
 
-#### Compiling code from source
+#### Compiling from source
 ```sh
 git clone https://github.com/Philippcmd/DebugStickFlowerPot.git
 cd DebugStickFlowerPot/
